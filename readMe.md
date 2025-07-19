@@ -60,38 +60,11 @@
   - UI: pgAdmin4
 
 
-## 👩‍💻 Developers
-
-- Anuja Jagtap  
-- Mohini Ghare  
-- Sakshi Kakde  
-- Om Gadekar  
-- Vishal Bainade  
-- Hemant Bhujang  
-
----
-
 ## 🚀 How to Start the Project
 
 
-### 🔹 1. Frontend (Web) — Angular
-
-- **Port:** `4200`
-- **Setup:**
-  
-  # Install Angular CLI (v16 or lower recommended)
-  npm install -g @angular/cli@16
-
-  # Navigate to frontend folder
-  cd ECommerce
-
-  # Run frontend
-  ng serve
-
-
-> ✔️ Note: Ensure backend is running and CORS is enabled for successful connection.
-
-
+### 🔹 1. Frontend (Flutter)
+* **download link : https...............................available soon...................................................
 
 ### 🔹 2. Backend — Node.js + Express
 
